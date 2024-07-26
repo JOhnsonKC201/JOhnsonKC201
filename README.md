@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...creating an websites
 - 💞️ I’m looking to collaborate on ...anything or anyone
 - 📫 How to reach me ...Johnsonkc201@gmail.com
-- 😄 Pronouns: ...John-son
+- 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...I know nothing.
 
 <!---
