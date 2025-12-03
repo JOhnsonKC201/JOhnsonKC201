@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @JOhnsonKC201
-- 👀 I’m interested in ...Programming with Java and Python
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...anything or with anyone
-- 📫 How to reach me ...Johnsonkc201@gmail.com
-- 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...I know nothing.
-
+As an undergraduate researcher-in-training who has a strong belief in the power of curiosity to create measurable results. By combining rigorous coursework with practical application through the development of studies, data analysis, and reporting of findings, I have been able to develop a solid foundation of knowledge and experience to support my work as an undergraduate researcher. Additionally, as a peer tutor, I have learned how to provide meaningful support for others by creating simple and concise instructional materials that clearly articulate complex concepts and processes to students, which has greatly improved my communication and collaboration skills. I am passionate about working on projects that help others, which is why I have focused on projects that create tangible benefits and have a high standard of excellence. My goal is to continue to pursue undergraduate research experiences (URE) and be mentored by those who can teach me modern techniques (experimental design, data analysis, reproducible workflows), so that I can ultimately attain my goal of a graduate degree. If your organization, research group, or lab values initiative, clarity, and follow-through, I would love to connect with you.
