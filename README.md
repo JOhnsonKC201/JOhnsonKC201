@@ -8,36 +8,36 @@ Right now I'm focused on applied ML research, shipping consumer apps, and preppi
 
 ## What I'm working on
 
-🧬 **Cross-Species Gene Interaction Prediction** — Applied ML research under Dr. Philwa Lee, funded by an NIH NIDA R21 grant. Building deep learning models for protein-protein interaction prediction across species.
+🧬 **Cross-Species Gene Interaction Prediction.** Applied ML research under Dr. Philwa Lee, funded by an NIH NIDA R21 grant. Building deep learning models for protein-protein interaction prediction across species.
 
-🏘️ **[Yahtri](https://yahtri.com)** — Hyper-local resale marketplace built with React, FastAPI, and Supabase. Map-first browsing, AI-powered listing generation from photos, Safe Meetup Spots, in-app messaging, and price drop alerts.
+🎙️ **EchoFlow.** Local-first dictation tool for Windows. Whisper for transcription, local LLM cleanup, RAG over past dictations for few-shot context, and LoRA fine-tuning that kicks in past 500 samples. Supports English and Thai, with a global hotkey launcher and auto-paste.
 
-🎓 **BearBoard** — Student collaboration platform for Morgan State, built with React, FastAPI, and Neon Postgres. Study group coordination, note sharing, peer Q&A, and an LLM-powered quiz generator.
+🏘️ **[Yahtri](https://yahtri.com).** Hyper-local resale marketplace built with React, FastAPI, and Supabase. Map-first browsing, AI-powered listing generation from photos, Safe Meetup Spots, in-app messaging, and price drop alerts.
 
-🗣️ **Voice Note Maker** — React/Node.js app that turns speech into structured notes using the Web Speech API and Groq.
+🎓 **BearBoard.** Student collaboration platform for Morgan State, built with React, FastAPI, and Neon Postgres. Study group coordination, note sharing, peer Q&A, and an LLM-powered quiz generator.
 
 ## Research experience
 
-- **NIH NIDA Computational Biology Researcher**, Morgan State — Applied ML to genomic data under Dr. Philwa Lee
-- **NLP Research Intern**, Luminoso Technologies — Built enterprise NLP and text analytics tooling
-- **Incoming ML Researcher**, UC San Diego (HDSI) — STARS 2026 summer program, climate ML with Dr. Duncan Watson-Parris
+* **NIH NIDA Computational Biology Researcher**, Morgan State. Applied ML to genomic data under Dr. Philwa Lee.
+* **NLP Research Intern**, Luminoso Technologies. Built enterprise NLP and text analytics tooling.
+* **Incoming ML Researcher**, UC San Diego (HDSI). STARS 2026 summer program, climate ML with Dr. Duncan Watson-Parris.
 
 ## Tech I use
 
-- **Languages:** Python, JavaScript/TypeScript, R, SQL, Bash
-- **ML/Bio:** PyTorch, scikit-learn, Hugging Face Transformers, Scanpy, BioPython
-- **Web:** React, Next.js, FastAPI, Node.js, Tailwind CSS
-- **Cloud/Infra:** Supabase, Neon, Vercel, Google Cloud, Docker
-- **Tools:** Git, Jupyter, VS Code, Linux, Claude API
+* **Languages:** Python, JavaScript/TypeScript, R, SQL, Bash
+* **ML/Bio:** PyTorch, scikit-learn, Hugging Face Transformers, Whisper, Scanpy, BioPython
+* **Web:** React, Next.js, FastAPI, Node.js, Tailwind CSS
+* **Cloud/Infra:** Supabase, Neon, Vercel, Google Cloud, Docker
+* **Tools:** Git, Jupyter, VS Code, Linux, Claude API
 
 ## Beyond code
 
-- APEx Honors at NSBE
-- Tau Sigma and NSLS honor societies
-- Break Through Tech AI — ML Foundations track (2026–27 cohort)
-- SABCYL Cohort 4 — entrepreneurship program through the Center for Urban Families
-- Peer mentor for transfer students at Morgan State
-- Run **Productivity Sparks** on YouTube
+* APEx Honors at NSBE
+* Tau Sigma and NSLS honor societies
+* Break Through Tech AI, ML Foundations track (2026/27 cohort)
+* SABCYL Cohort 4, entrepreneurship program through the Center for Urban Families
+* Peer mentor for transfer students at Morgan State
+* Run **Productivity Sparks** on YouTube
 
 ## 🌐 Socials
 
