@@ -10,11 +10,13 @@ Right now I'm focused on applied ML research, shipping consumer apps, and preppi
 
 🧬 **Cross-Species Gene Interaction Prediction.** Applied ML research under Dr. Philwa Lee, funded by an NIH NIDA R21 grant. Building deep learning models for protein-protein interaction prediction across species.
 
-🎙️ **EchoFlow.** Local-first dictation tool for Windows. Whisper for transcription, local LLM cleanup, RAG over past dictations for few-shot context, and LoRA fine-tuning that kicks in past 500 samples. Supports English and Thai, with a global hotkey launcher and auto-paste.
+🎙️ **[EchoFlow](https://github.com/JOhnsonKC201/Echo_FLOW).** Local-first dictation tool for Windows. Whisper for transcription, local LLM cleanup, RAG over past dictations for few-shot context, and LoRA fine-tuning that kicks in past 500 samples. Supports English and Thai, with a global hotkey launcher and auto-paste.
 
 🏘️ **[Yahtri](https://yahtri.com).** Hyper-local resale marketplace built with React, FastAPI, and Supabase. Map-first browsing, AI-powered listing generation from photos, Safe Meetup Spots, in-app messaging, and price drop alerts.
 
 🎓 **BearBoard.** Student collaboration platform for Morgan State, built with React, FastAPI, and Neon Postgres. Study group coordination, note sharing, peer Q&A, and an LLM-powered quiz generator.
+
+🐱 **[PixelCat](https://github.com/JOhnsonKC201/pixelcat).** A cute pixel cat that lives on your Windows desktop — an Electron desktop pet inspired by Comnyang. Built with JavaScript and Electron, with mood-driven animations and a frameless always-on-top companion window.
 
 ## Research experience
 
