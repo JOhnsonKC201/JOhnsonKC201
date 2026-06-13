@@ -1,5 +1,7 @@
 # 💫 About Me: Johnson K C
 
+**CS @ Morgan State '27 · ML researcher (NIH R21 → incoming UC San Diego HDSI) · full-stack builder (React + FastAPI).**
+
 Hey 👋
 
 Senior CS student at Morgan State University with a 4.0 GPA, graduating Spring 2027. I build at the intersection of machine learning, computational biology, and full-stack web development.
@@ -10,7 +12,7 @@ Right now I'm focused on applied ML research, shipping consumer apps, and preppi
 
 🧬 **Cross-Species Gene Interaction Prediction.** Applied ML research under Dr. Philwa Lee, funded by an NIH NIDA R21 grant. Building deep learning models for protein-protein interaction prediction across species.
 
-🎙️ **[EchoFlow](https://github.com/JOhnsonKC201/Echo_FLOW).** Local-first dictation tool for Windows. Whisper for transcription, local LLM cleanup, RAG over past dictations for few-shot context, and LoRA fine-tuning that kicks in past 500 samples. Supports English and Thai, with a global hotkey launcher and auto-paste.
+🎙️ **[EchoFlow](https://github.com/JOhnsonKC201/Echo_FLOW).** Local-first dictation tool for Windows. Whisper for transcription, local LLM cleanup, RAG over past dictations for few-shot context, and LoRA fine-tuning that kicks in past 500 samples. Supports English and Thai, with a global hotkey launcher and auto-paste. Backed by an 833-test suite.
 
 🏘️ **[Yahtri](https://yahtri.com).** Hyper-local resale marketplace built with React, FastAPI, and Supabase. Map-first browsing, AI-powered listing generation from photos, Safe Meetup Spots, in-app messaging, and price drop alerts.
 
