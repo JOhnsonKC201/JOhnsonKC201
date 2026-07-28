@@ -10,19 +10,19 @@ Right now I'm focused on applied ML research, shipping consumer apps, and preppi
 
 ## What I'm working on
 
-🧬 **Cross-Species Gene Interaction Prediction.** Applied ML research under Dr. Philwa Lee, funded by an NIH NIDA R21 grant. Building deep learning models for protein-protein interaction prediction across species.
+🧬 **Cross-Species Gene Interaction Prediction.** Applied ML research under Dr. Pilhwa Lee, funded by an NIH NIDA R21 grant. Building deep learning models for protein-protein interaction prediction across species.
 
-🎙️ **[EchoFlow](https://github.com/JOhnsonKC201/Echo_FLOW).** Local-first dictation tool for Windows. Whisper for transcription, local LLM cleanup, RAG over past dictations for few-shot context, and LoRA fine-tuning that kicks in past 500 samples. Supports English and Thai, with a global hotkey launcher and auto-paste. Backed by an 833-test suite.
+🎙️ **[Echo Flow](https://github.com/JOhnsonKC201/Echo_FLOW).** Local-first dictation tool for Windows. Whisper transcribes on-device and a local LLM cleans the text up, so audio never leaves the machine. It learns your vocabulary and casing from your own corrections, offers 16 languages plus auto-detect, and includes a voice-calibration flow that pins the words it keeps mishearing. Backed by a 1,450-test suite.
 
 🏘️ **[Yahtri](https://yahtri.com).** Hyper-local resale marketplace built with React, FastAPI, and Supabase. Map-first browsing, AI-powered listing generation from photos, Safe Meetup Spots, in-app messaging, and price drop alerts.
 
 🎓 **BearBoard.** Student collaboration platform for Morgan State, built with React, FastAPI, and Neon Postgres. Study group coordination, note sharing, peer Q&A, and an LLM-powered quiz generator.
 
-🐱 **[PixelCat](https://github.com/JOhnsonKC201/pixelcat).** A cute pixel cat that lives on your Windows desktop — an Electron desktop pet inspired by Comnyang. Built with JavaScript and Electron, with mood-driven animations and a frameless always-on-top companion window.
+🐱 **[PixelCat](https://github.com/JOhnsonKC201/pixelcat).** A cute pixel cat that lives on your Windows desktop. An Electron desktop pet inspired by Comnyang. Built with JavaScript and Electron, with mood-driven animations and a frameless always-on-top companion window.
 
 ## Research experience
 
-* **NIH NIDA Computational Biology Researcher**, Morgan State. Applied ML to genomic data under Dr. Philwa Lee.
+* **NIH NIDA Computational Biology Researcher**, Morgan State. Applied ML to genomic data under Dr. Pilhwa Lee.
 * **NLP Research Intern**, Luminoso Technologies. Built enterprise NLP and text analytics tooling.
 * **Incoming ML Researcher**, UC San Diego (HDSI). STARS 2026 summer program, climate ML with Dr. Duncan Watson-Parris.
 
@@ -76,5 +76,3 @@ Right now I'm focused on applied ML research, shipping consumer apps, and preppi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=JOhnsonKC201&icon=2&color=7)](https://visitcount.itsvg.in)
