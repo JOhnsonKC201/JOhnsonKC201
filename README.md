@@ -1,78 +1,77 @@
-# 💫 About Me: Johnson K C
+# Johnson K C
 
-**CS @ Morgan State '27 · ML researcher (NIH R21 → incoming UC San Diego HDSI) · full-stack builder (React + FastAPI).**
+**Machine learning research engineer.** Computer Science, Morgan State University, Class of 2027. Baltimore, Maryland.
 
-Hey 👋
+Email: [johnsonkc201@gmail.com](mailto:johnsonkc201@gmail.com)
+LinkedIn: [linkedin.com/in/johnsonkc](https://www.linkedin.com/in/johnsonkc)
 
-Senior CS student at Morgan State University with a 4.0 GPA, graduating Spring 2027. I build at the intersection of machine learning, computational biology, and full-stack web development.
+## About
 
-Right now I'm focused on applied ML research, shipping consumer apps, and prepping for a summer at UC San Diego working on climate ML.
+I am training to be a machine learning research engineer: the person who takes a method out of a paper, implements it correctly, proves it matches the reference, and turns it into code the rest of the lab can build on.
 
-## What I'm working on
+That one goal shapes everything below. My research is in optimal transport and geometric machine learning. My open source work goes upstream into the scientific Python stack those methods run on. My projects are where I practice getting a model out of a notebook and into something people actually run.
 
-🧬 **Cross-Species Gene Interaction Prediction.** Applied ML research under Dr. Pilhwa Lee, funded by an NIH NIDA R21 grant. Building deep learning models for protein-protein interaction prediction across species.
+I graduate in Spring 2027 with a 4.0 GPA, and I am looking for machine learning research and ML engineering internships.
 
-🎙️ **[Echo Flow](https://github.com/JOhnsonKC201/Echo_FLOW).** Local-first dictation tool for Windows. Whisper transcribes on-device and a local LLM cleans the text up, so audio never leaves the machine. It learns your vocabulary and casing from your own corrections, offers 16 languages plus auto-detect, and includes a voice-calibration flow that pins the words it keeps mishearing. Backed by a 1,450-test suite.
+## Research
 
-🏘️ **[Yahtri](https://yahtri.com).** Hyper-local resale marketplace built with React, FastAPI, and Supabase. Map-first browsing, AI-powered listing generation from photos, Safe Meetup Spots, in-app messaging, and price drop alerts.
+**Machine Learning Researcher**, Morgan State University, NIH NIDA R21
+Advised by Dr. Pilhwa Lee. Extending optimal transport gradient flows onto symmetric positive definite matrices, applied to brain connectivity. I implemented a published sliced Wasserstein flow on the SPD manifold, validated it against our own log domain formulation, and built the test suite that keeps both implementations honest.
 
-🎓 **BearBoard.** Student collaboration platform for Morgan State, built with React, FastAPI, and Neon Postgres. Study group coordination, note sharing, peer Q&A, and an LLM-powered quiz generator.
+**Machine Learning Researcher**, UC San Diego HDSI, STARS 2026
+Advised by Dr. Duncan Watson-Parris. Online bias correction for JAX based general circulation model physics, in the climate modeling group.
 
-🐱 **[PixelCat](https://github.com/JOhnsonKC201/pixelcat).** A cute pixel cat that lives on your Windows desktop. An Electron desktop pet inspired by Comnyang. Built with JavaScript and Electron, with mood-driven animations and a frameless always-on-top companion window.
+**NLP Research Intern**, Luminoso Technologies
+Enterprise natural language processing and text analytics tooling.
 
-## Research experience
+**Break Through Tech AI Fellow**, Cornell Tech, Machine Learning Foundations track, 2026/27 cohort.
 
-* **NIH NIDA Computational Biology Researcher**, Morgan State. Applied ML to genomic data under Dr. Pilhwa Lee.
-* **NLP Research Intern**, Luminoso Technologies. Built enterprise NLP and text analytics tooling.
-* **Incoming ML Researcher**, UC San Diego (HDSI). STARS 2026 summer program, climate ML with Dr. Duncan Watson-Parris.
+## Open source
 
-## Tech I use
+I use these libraries in my research, so I fix them upstream when they break. Merged:
 
-* **Languages:** Python, JavaScript/TypeScript, R, SQL, Bash
-* **ML/Bio:** PyTorch, scikit-learn, Hugging Face Transformers, Whisper, Scanpy, BioPython
-* **Web:** React, Next.js, FastAPI, Node.js, Tailwind CSS
-* **Cloud/Infra:** Supabase, Neon, Vercel, Google Cloud, Docker
-* **Tools:** Git, Jupyter, VS Code, Linux, Claude API
+| Project | Contribution |
+| --- | --- |
+| [scanpy](https://github.com/scverse/scanpy/pull/4256) | Use the non-zero median as `target_sum` on the sparse normalization path |
+| [xarray](https://github.com/pydata/xarray/pull/11477) | Fix stacking of dimensions with falsy names |
+| [sqlite-utils](https://github.com/simonw/sqlite-utils/pull/751) | Honor `--no-headers` for formatted and table output |
+| [ai-job-search](https://github.com/MadsLorentzen/ai-job-search/pull/230) | Store standalone count columns as counts rather than indexes |
 
-## Beyond code
+Under review at [transformers](https://github.com/huggingface/transformers/pull/46942),
+[anndata](https://github.com/scverse/anndata/pull/2571),
+[zarr](https://github.com/zarr-developers/zarr-python/pull/4189),
+[dask](https://github.com/dask/dask/pull/12522),
+[equinox](https://github.com/patrick-kidger/equinox/pull/1253), and
+[PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric/pull/10758).
 
-* APEx Honors at NSBE
-* Tau Sigma and NSLS honor societies
-* Break Through Tech AI, ML Foundations track (2026/27 cohort)
-* SABCYL Cohort 4, entrepreneurship program through the Center for Urban Families
-* Peer mentor for transfer students at Morgan State
-* Run **Productivity Sparks** on YouTube
+## Selected projects
 
-## 🌐 Socials
+**[Echo Flow](https://github.com/JOhnsonKC201/Echo_FLOW)**
+Local first voice dictation for Windows. Whisper transcribes on device and a local language model cleans the text, so audio never leaves the machine. It learns your vocabulary and casing from your own corrections, supports 16 languages, and ships with a 1,450 test suite. Python, Whisper, Ollama.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnsonkc201/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnsonkc201@gmail.com)
+**[pixelpets](https://github.com/JOhnsonKC201/pixelpets)**
+A pixel cat or dog that lives on your desktop, watches your cursor, and reacts when you type. 14 cat coats and 14 dog breeds, all original art and procedural audio. [Try it in the browser](https://pixelcat-jet.vercel.app), no install required. JavaScript, Electron.
 
-## 💻 Tech Stack
+**[Yahtri](https://yahtri.com)**
+Hyper local resale marketplace. Listings are generated from a photo by a vision model, with map first browsing and price drop alerts. React, FastAPI, Supabase.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**BearBoard**
+Student collaboration platform for Morgan State, with an LLM backed quiz generator. I led the work that took it multi worker on a shared Redis backplane and closed a set of critical authentication and rate limiting issues found in review. React, FastAPI, Postgres.
 
----
+**[Diabetes prediction from sparse EHR data](https://github.com/JOhnsonKC201/Diabetes_Prediction_Logistic_Regression)**
+Logistic regression for early Type 2 diabetes detection in low resource settings. Dataset, model, and write up.
+
+## Tools
+
+**Machine learning:** PyTorch, JAX, scikit-learn, Hugging Face Transformers, NumPy, pandas, Scanpy, AnnData, Whisper
+**Languages:** Python, R, SQL, TypeScript, JavaScript, Bash
+**Systems:** FastAPI, React, Postgres, Redis, Docker, Git, Linux
+
+## Beyond the lab
+
+APEx Honors at NSBE. Tau Sigma and NSLS honor societies. SABCYL Cohort 4 through the Center for Urban Families. Peer mentor for transfer students at Morgan State.
+
+## Contact
+
+The fastest way to reach me is email: **johnsonkc201@gmail.com**
+I am also on [LinkedIn](https://www.linkedin.com/in/johnsonkc).
