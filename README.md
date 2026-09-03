@@ -30,15 +30,20 @@ Enterprise natural language processing and text analytics tooling.
 
 ## Open source
 
-I use these libraries in my research, so I fix them upstream when they break. Merged:
+Most of these are libraries I use in my research, so I fix them upstream when they break. Merged:
 
 | Project | Contribution |
 | --- | --- |
 | [equinox](https://github.com/patrick-kidger/equinox/pull/1253) | Treat JAX and NumPy arrays as interchangeable when deserialising |
 | [scanpy](https://github.com/scverse/scanpy/pull/4256) | Use the non-zero median as `target_sum` on the sparse normalization path |
+| [anndata](https://github.com/scverse/anndata/pull/2571) | Suggest the correct store class when reading a packed zarr store by path |
+| [zarr](https://github.com/zarr-developers/zarr-python/pull/4189) | Allow `require_array` to accept a `ZDType` |
 | [xarray](https://github.com/pydata/xarray/pull/11477) | Fix stacking of dimensions with falsy names |
+| [jax-gcm](https://github.com/climate-analytics-lab/jax-gcm/pull/587) | Make `MoistAirColumnState` broadcasting-native, and [make `LottMillerSso` work on any horizontal layout](https://github.com/climate-analytics-lab/jax-gcm/pull/589) |
 | [sqlite-utils](https://github.com/simonw/sqlite-utils/pull/751) | Honor `--no-headers` for formatted and table output |
 | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search/pull/230) | Store standalone count columns as counts rather than indexes |
+| [OpenMontage](https://github.com/calesthio/OpenMontage/pull/471) | Key the total-failure guard on failures rather than on skips |
+| [yc-oss](https://github.com/yc-oss/open-source-companies/pull/14) | Map unmapped company repositories, and [search placeholder entries when discovering them](https://github.com/yc-oss/open-source-companies/pull/15) |
 
 Under review:
 
@@ -46,8 +51,7 @@ Under review:
 | --- | --- |
 | [transformers](https://github.com/huggingface/transformers/pull/46942) | Fix dtype cast in TimesFM 2.5 `ResidualBlock` for quantized weights |
 | [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric/pull/10758) | Fix the `dense_to_sparse` backward pass for three-dimensional input |
-| [zarr](https://github.com/zarr-developers/zarr-python/pull/4189) | Allow `require_array` to accept a `ZDType` |
-| [anndata](https://github.com/scverse/anndata/pull/2571) | Suggest the correct store class when reading a packed zarr store by path |
+| [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric/pull/10794) | Fix `negative_sampling` when no negative samples are requested |
 
 ## Selected projects
 
