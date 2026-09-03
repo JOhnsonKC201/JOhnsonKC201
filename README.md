@@ -5,7 +5,7 @@
 Email: [johnsonkc201@gmail.com](mailto:johnsonkc201@gmail.com)
 LinkedIn: [linkedin.com/in/johnsonkc](https://www.linkedin.com/in/johnsonkc)
 
-**Currently seeking:** Fall 2027 internships in machine learning research and ML engineering.
+**Currently seeking:** May 2027 Job in machine learning research and ML engineering or Software Engineering.
 
 ## About
 
