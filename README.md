@@ -76,7 +76,6 @@ Logistic regression for early Type 2 diabetes detection in low-resource settings
 APEx Honors at NSBE. Tau Sigma and NSLS honor societies. SABCYL Cohort 4 through the Center for Urban Families. Peer mentor for transfer students at Morgan State.
 
 ## Contact
-  <text x="732" y="439" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> GitHub Stats </tspan><tspan fill="#3d444d">───────────────────────────────────────────</tspan></text>
   <text x="732" y="459" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">..............</tspan><tspan fill="#79c0ff"> 29</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">..............</tspan><tspan fill="#79c0ff"> 12</tspan></text>
   <text x="732" y="479" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 594</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 6</tspan></text>
 </svg>
