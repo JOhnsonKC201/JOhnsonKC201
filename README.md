@@ -52,6 +52,7 @@ Under review:
 | [transformers](https://github.com/huggingface/transformers/pull/46942) | Fix dtype cast in TimesFM 2.5 `ResidualBlock` for quantized weights |
 | [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric/pull/10758) | Fix the `dense_to_sparse` backward pass for three-dimensional input |
 | [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric/pull/10794) | Fix `negative_sampling` when no negative samples are requested |
+| [jax-gcm](https://github.com/climate-analytics-lab/jax-gcm/pull/767) | Optional specific-humidity relaxation for nudging, and a public `vertical_interp_log_p` |
 
 ## Selected projects
 
@@ -80,9 +81,7 @@ Logistic regression for early Type 2 diabetes detection in low-resource settings
 APEx Honors at NSBE. Tau Sigma and NSLS honor societies. SABCYL Cohort 4 through the Center for Urban Families. Peer mentor for transfer students at Morgan State.
 
 ## Contact
-  <text x="732" y="459" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">..............</tspan><tspan fill="#79c0ff"> 29</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">..............</tspan><tspan fill="#79c0ff"> 12</tspan></text>
-  <text x="732" y="479" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 594</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 6</tspan></text>
-</svg>
+
 The fastest way to reach me is email: **[johnsonkc201@gmail.com](mailto:johnsonkc201@gmail.com)**
 I am also on [LinkedIn](https://www.linkedin.com/in/johnsonkc).
 
