@@ -40,7 +40,7 @@ Most of these are libraries I use in my research, so I fix them upstream when th
 | [zarr](https://github.com/zarr-developers/zarr-python/pull/4189) | Allow `require_array` to accept a `ZDType` |
 | [xarray](https://github.com/pydata/xarray/pull/11477) | Fix stacking of dimensions with falsy names |
 | [MLSysBook](https://github.com/harvard-edge/cs249r_book/commit/793e24d1) | Fix the broken-link count: followed redirects no longer count as broken, and DNS, TLS and timeout failures now do |
-| [jax-gcm](https://github.com/climate-analytics-lab/jax-gcm/pull/587) | Make `MoistAirColumnState` broadcasting-native, and [make `LottMillerSso` work on any horizontal layout](https://github.com/climate-analytics-lab/jax-gcm/pull/589) |
+| [jax-gcm](https://github.com/climate-analytics-lab/jax-gcm/pull/587) | Make `MoistAirColumnState` broadcasting-native, [make `LottMillerSso` work on any horizontal layout](https://github.com/climate-analytics-lab/jax-gcm/pull/589), and [add optional specific-humidity relaxation for nudging](https://github.com/climate-analytics-lab/jax-gcm/pull/767) |
 | [sqlite-utils](https://github.com/simonw/sqlite-utils/pull/751) | Honor `--no-headers` for formatted and table output |
 | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search/pull/230) | Store standalone count columns as counts rather than indexes |
 | [OpenMontage](https://github.com/calesthio/OpenMontage/pull/471) | Key the total-failure guard on failures rather than on skips |
@@ -53,7 +53,6 @@ Under review:
 | [transformers](https://github.com/huggingface/transformers/pull/46942) | Fix dtype cast in TimesFM 2.5 `ResidualBlock` for quantized weights |
 | [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric/pull/10758) | Fix the `dense_to_sparse` backward pass for three-dimensional input |
 | [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric/pull/10794) | Fix `negative_sampling` when no negative samples are requested |
-| [jax-gcm](https://github.com/climate-analytics-lab/jax-gcm/pull/767) | Optional specific-humidity relaxation for nudging, and a public `vertical_interp_log_p` |
 
 ## Selected projects
 
