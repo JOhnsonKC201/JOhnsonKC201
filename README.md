@@ -5,7 +5,7 @@
 Email: [johnsonkc201@gmail.com](mailto:johnsonkc201@gmail.com)\
 LinkedIn: [linkedin.com/in/johnsonkc](https://www.linkedin.com/in/johnsonkc)
 
-**Currently seeking:** May 2027 Job in machine learning research and ML engineering or Software Engineering.
+**Currently seeking:** full-time roles starting May 2027 in machine learning research, ML engineering, or software engineering.
 
 ## About
 
@@ -26,7 +26,8 @@ Advised by Dr. Duncan Watson-Parris, in the climate modeling group. Online bias 
 **NLP Research Intern**, Luminoso Technologies\
 Enterprise natural language processing and text analytics tooling.
 
-**Break Through Tech AI Fellow**, Cornell Tech, Machine Learning Foundations track, 2026/27 cohort.
+**Break Through Tech AI Fellow**, Cornell Tech, Machine Learning Foundations track, 2026/27 cohort.\
+AI Studio project with Microsoft: groundwater level forecasting from time series. I built the [feature engineering](https://github.com/Break-Through-Tech/Microsoft-4B-groundwater-timeseries-prediction-using-AI/pull/7) (time, rainfall, and water level history features) and the [daily and monthly visualizations](https://github.com/Break-Through-Tech/Microsoft-4B-groundwater-timeseries-prediction-using-AI/pull/8).
 
 ## Open source
 
@@ -59,10 +60,13 @@ Under review:
 ## Selected projects
 
 **[Echo Flow](https://github.com/JOhnsonKC201/Echo_FLOW)**\
-Local-first voice dictation for Windows. Whisper transcribes on device and a local language model cleans the text, so audio never leaves the machine. It learns your vocabulary and casing from your own corrections, supports 16 languages, and ships with more than 1,800 tests. Python, Whisper, Ollama.
+Local-first voice dictation for Windows, and macOS from source. Whisper transcribes on device and a local language model cleans the text, so audio never leaves the machine. It learns your vocabulary and casing from your own corrections, supports 16 languages, and ships with more than 1,900 tests. Python, Whisper, Ollama.
 
 **[pixelpets](https://github.com/JOhnsonKC201/pixelpets)**\
-A pixel cat or dog that lives on your desktop, watches your cursor, and reacts when you type. 14 cat coats and a Black Lab, all original art and procedural audio. [Try it in the browser](https://pixelcat-jet.vercel.app), no install required. JavaScript, Electron.
+A pixel cat or dog that lives on your desktop, watches your cursor, and reacts when you type. 14 cat coats and a Black Lab, all original art and procedural audio. Right-click it for Quick Tools, a small launcher for everyday tasks that speaks eight languages. Windows installer, macOS beta, or [try it in the browser](https://pixelcat-jet.vercel.app) with no install. JavaScript, Electron.
+
+**[Vesper](https://github.com/JOhnsonKC201/vesper)**\
+A voice copilot driven by the Claude Code CLI. Speech recognition and synthesis run locally, it keeps an ambient picture of what the machine is doing, and it needs no API key. Python.
 
 **[Yahtri](https://yahtri.com)**\
 Hyperlocal resale marketplace. Listings are generated from a photo by a vision model, with map-first browsing and price-drop alerts. React, FastAPI, Supabase.
