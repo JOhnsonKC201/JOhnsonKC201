@@ -35,6 +35,8 @@ Most of these are libraries I use in my research, so I fix them upstream when th
 
 | Project | Contribution |
 | --- | --- |
+| [transformers](https://github.com/huggingface/transformers/pull/46942) | Fix dtype cast in TimesFM 2.5 `ResidualBlock` for quantized weights |
+| [open-instruct](https://github.com/allenai/open-instruct/pull/1929) | Document which chat template the released RL Zero checkpoints used |
 | [equinox](https://github.com/patrick-kidger/equinox/pull/1253) | Treat JAX and NumPy arrays as interchangeable when deserialising |
 | [scanpy](https://github.com/scverse/scanpy/pull/4256) | Use the non-zero median as `target_sum` on the sparse normalization path |
 | [anndata](https://github.com/scverse/anndata/pull/2571) | Suggest the correct store class when reading a packed zarr store by path |
@@ -51,11 +53,9 @@ Under review:
 
 | Project | Contribution |
 | --- | --- |
-| [transformers](https://github.com/huggingface/transformers/pull/46942) | Fix dtype cast in TimesFM 2.5 `ResidualBlock` for quantized weights |
 | [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric/pull/10758) | Fix the `dense_to_sparse` backward pass for three-dimensional input |
 | [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric/pull/10794) | Fix `negative_sampling` when no negative samples are requested |
 | [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness/pull/4281) | Warn when `metric_list` names a metric the output type never emits |
-| [open-instruct](https://github.com/allenai/open-instruct/pull/1929) | Document which chat template the released RL Zero checkpoints used |
 
 ## Selected projects
 
