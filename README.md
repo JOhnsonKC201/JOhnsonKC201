@@ -35,6 +35,7 @@ Most of these are libraries I use in my research, so I fix them upstream when th
 
 | Project | Contribution |
 | --- | --- |
+| [evalscope](https://github.com/modelscope/evalscope/pull/1955) | Keep Anthropic model evals working on anthropic SDK 2.x |
 | [transformers](https://github.com/huggingface/transformers/pull/46942) | Fix dtype cast in TimesFM 2.5 `ResidualBlock` for quantized weights |
 | [open-instruct](https://github.com/allenai/open-instruct/pull/1929) | Document which chat template the released RL Zero checkpoints used |
 | [equinox](https://github.com/patrick-kidger/equinox/pull/1253) | Treat JAX and NumPy arrays as interchangeable when deserialising |
@@ -56,7 +57,6 @@ Under review:
 | [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric/pull/10758) | Fix the `dense_to_sparse` backward pass for three-dimensional input |
 | [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric/pull/10794) | Fix `negative_sampling` when no negative samples are requested |
 | [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness/pull/4281) | Warn when `metric_list` names a metric the output type never emits |
-| [evalscope](https://github.com/modelscope/evalscope/pull/1955) | Keep Anthropic model evals working on anthropic SDK 2.x |
 
 ## Selected projects
 
