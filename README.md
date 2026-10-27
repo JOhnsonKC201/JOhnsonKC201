@@ -56,6 +56,7 @@ Under review:
 | [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric/pull/10758) | Fix the `dense_to_sparse` backward pass for three-dimensional input |
 | [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric/pull/10794) | Fix `negative_sampling` when no negative samples are requested |
 | [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness/pull/4281) | Warn when `metric_list` names a metric the output type never emits |
+| [evalscope](https://github.com/modelscope/evalscope/pull/1955) | Keep Anthropic model evals working on anthropic SDK 2.x |
 
 ## Selected projects
 
