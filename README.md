@@ -27,7 +27,7 @@ Advised by Dr. Duncan Watson-Parris, in the climate modeling group. Online bias 
 Enterprise natural language processing and text analytics tooling.
 
 **Break Through Tech AI Fellow**, Cornell Tech, Machine Learning Foundations track, 2026/27 cohort.\
-AI Studio project with Microsoft: groundwater level forecasting from time series. I built the [feature engineering](https://github.com/Break-Through-Tech/Microsoft-4B-groundwater-timeseries-prediction-using-AI/pull/7) (time, rainfall, and water level history features) and the [daily and monthly visualizations](https://github.com/Break-Through-Tech/Microsoft-4B-groundwater-timeseries-prediction-using-AI/pull/8).
+AI Studio project with Microsoft: groundwater level forecasting from time series. I built the [feature engineering](https://github.com/Break-Through-Tech/Microsoft-4B-groundwater-timeseries-prediction-using-AI/pull/7) (time, rainfall, and water level history features), the [daily and monthly visualizations](https://github.com/Break-Through-Tech/Microsoft-4B-groundwater-timeseries-prediction-using-AI/pull/8), an [LSTM that forecasts the next 7 days of water level change](https://github.com/Break-Through-Tech/Microsoft-4B-groundwater-timeseries-prediction-using-AI/pull/13), and the [evaluation that scores every model against a persistence baseline](https://github.com/Break-Through-Tech/Microsoft-4B-groundwater-timeseries-prediction-using-AI/pull/14).
 
 ## Open source
 
