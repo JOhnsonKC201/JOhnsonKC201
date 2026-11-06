@@ -27,7 +27,7 @@ Advised by Dr. Duncan Watson-Parris, in the climate modeling group. Online bias 
 Enterprise natural language processing and text analytics tooling.
 
 **Break Through Tech AI Fellow**, Cornell Tech, Machine Learning Foundations track, 2026/27 cohort.\
-AI Studio project with Microsoft: groundwater level forecasting from time series. I built the [feature engineering](https://github.com/Break-Through-Tech/Microsoft-4B-groundwater-timeseries-prediction-using-AI/pull/7) (time, rainfall, and water level history features), the [daily and monthly visualizations](https://github.com/Break-Through-Tech/Microsoft-4B-groundwater-timeseries-prediction-using-AI/pull/8), an [LSTM that forecasts the next 7 days of water level change](https://github.com/Break-Through-Tech/Microsoft-4B-groundwater-timeseries-prediction-using-AI/pull/13), and the [evaluation that scores every model against a persistence baseline](https://github.com/Break-Through-Tech/Microsoft-4B-groundwater-timeseries-prediction-using-AI/pull/14).
+AI Studio project with Microsoft: groundwater level forecasting from time series. I built the [feature engineering](https://github.com/Break-Through-Tech/Microsoft-4B-groundwater-timeseries-prediction-using-AI/pull/7) (time, rainfall, and water level history features), the [daily and monthly visualizations](https://github.com/Break-Through-Tech/Microsoft-4B-groundwater-timeseries-prediction-using-AI/pull/8), an [LSTM that forecasts the next 7 days of water level change](https://github.com/Break-Through-Tech/Microsoft-4B-groundwater-timeseries-prediction-using-AI/pull/13), the [evaluation that scores every model against a persistence baseline](https://github.com/Break-Through-Tech/Microsoft-4B-groundwater-timeseries-prediction-using-AI/pull/14), and a [7-day forecast comparison on a single well](https://github.com/Break-Through-Tech/Microsoft-4B-groundwater-timeseries-prediction-using-AI/pull/16), where the decision tree is the only model that beats persistence, by about 15%.
 
 ## Open source
 
@@ -58,6 +58,7 @@ Under review:
 | [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric/pull/10794) | Fix `negative_sampling` when no negative samples are requested |
 | [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness/pull/4281) | Warn when `metric_list` names a metric the output type never emits |
 | [CuPy](https://github.com/cupy/cupy/pull/10443) | Compute float `remainder`, `floor_divide` and `divmod` the way NumPy does |
+| [MuJoCo](https://github.com/google-deepmind/mujoco/pull/3759) | Make bodies attached below a mocap body follow the mocap pose in MJX |
 
 ## Selected projects
 
